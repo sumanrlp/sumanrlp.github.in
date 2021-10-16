@@ -1,2 +1,2 @@
-# sumanrlp.github.in
+# sumanrlp.github.io
 My Portfolio Website
